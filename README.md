@@ -9,9 +9,6 @@ Full-Stack developer from Japan.</h2>
 
 <br/>
 
-<a href="https://github.com/nnao45">
-  <img align="left" alt="Github" width="30px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" />
-</a>
 <a href="https://www.linkedin.com/in/%E5%B0%9A%E5%BC%A5-%E6%A8%AA%E5%B1%B1-867544113/">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
