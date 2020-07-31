@@ -18,9 +18,21 @@ Full-Stack developer from Japan.</h2>
 </a>
 </p>
 
-----
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nnao45.nnao45)
+<a href="https://github.com/nnao45">
+  <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" />
+</a>
+<a href="https://www.linkedin.com/in/%E5%B0%9A%E5%BC%A5-%E6%A8%AA%E5%B1%B1-867544113/">
+  <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+<a href="https://twitter.com/nnao45">
+  <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
+<a href="https://nnao45.hatenadiary.com/">
+  <img align="left" alt="Hatena" width="24px" src="https://hatenacorp.jp/images/company/resource/hatena-blog-logo-s.png" />
+</a>
+<a href="mailto:n4sekai5y@gmail.com">
+  <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/nnao45) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/nnao45) |  [<img src="https://hatenacorp.jp/images/company/resource/hatena-blog-logo-s.png" alt="hatena logo" width="28">](https://nnao45.hatenadiary.com/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/%E5%B0%9A%E5%BC%A5-%E6%A8%AA%E5%B1%B1-867544113/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="34">](n4sekai5y@gmail.com)
-|---|---|---|---|---|
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=nnao45.nnao45)
