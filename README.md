@@ -1,7 +1,5 @@
-<p align="center">
-  ### Hi 🙋‍♂️, I'm nnao45!!
-  ### Full-Stack developer from Japan.
-</p>
+### Hi, I'm nnao45!!
+### Full-Stack developer from Japan.
 
 </p>
 
