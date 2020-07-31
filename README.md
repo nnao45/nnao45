@@ -1,11 +1,12 @@
 <p align="center">
-  <h1 align="center">nnao45</h1>
-</p>
-<h3 align="center">:octocat:</h3>
-
+  ### Hi 🙋‍♂️, I'm nnao45!!
+  ### Full-Stack developer from Japan.
 </p>
 
-  <p align = "center">
+</p>
+
+  #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+  <p align = "left">
     <img src="https://github-readme-stats.vercel.app/api?username=nnao45&show_icons=true"/>
   </p>
 
