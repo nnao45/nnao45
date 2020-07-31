@@ -1,7 +1,7 @@
 <h2>Hi, I'm nnao45!! :wave: <br/>
 Full-Stack developer from Japan.</h2>
 
-#### My icon <img src="https://github.com/nnao45/nnao45/blob/master/nnao45.png?raw=true" height="20px" width="20px"/></a> is inspired by [Mother](https://www.nintendo.co.jp/n08/a2uj/mother2/index.html), Love this
+#### My icon <img src="https://github.com/nnao45/nnao45/blob/master/nnao45.png?raw=true" height="20px" width="20px"/></a> is inspired by [Mother2](https://www.nintendo.co.jp/n08/a2uj/mother2/index.html), Love this
 #### :briefcase: Work at the CyberAgent, Inc. AI Div 
 #### :mortar_board: B1 Master of Computer Science (2020/10~)
 #### :computer: Scala, Go, Rust, Java, Vue.js, Zsh, MySQL, Kubernetes, BGP
