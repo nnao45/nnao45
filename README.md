@@ -30,10 +30,10 @@ Full-Stack developer from Japan.</h2>
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 <p align="left">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nnao45&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nnao45&count_private=true&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnao45&hide=makefile,shell" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnao45&hide=makefile,shell&hide_border=true" />
 </a>
 </p>
 
