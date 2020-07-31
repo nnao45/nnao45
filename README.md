@@ -35,4 +35,6 @@ Full-Stack developer from Japan.</h2>
   <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
+<br/><br/>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nnao45.nnao45)
