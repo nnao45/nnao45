@@ -9,11 +9,14 @@ Full-Stack developer from Japan.</h2>
 
 <br/>
 
+<a href="https://twitter.com/nnao45">
+  <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
 <a href="https://www.linkedin.com/in/%E5%B0%9A%E5%BC%A5-%E6%A8%AA%E5%B1%B1-867544113/">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
-<a href="https://twitter.com/nnao45">
-  <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+<a href="https://speakerdeck.com/nnao45">
+  <img align="left" alt="Speakerdeck" height="27px" width="30px" src="https://www.strattic.com/wp-content/uploads/2019/06/speakerdeck-172x172.png" />
 </a>
 <a href="https://nnao45.hatenadiary.com/">
   <img align="left" alt="Hatena" width="24px" src="https://hatenacorp.jp/images/company/resource/hatena-blog-logo-s.png" />
