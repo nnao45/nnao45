@@ -30,9 +30,6 @@ Full-Stack developer from Japan :japan:</h2>
 #### :key: my public pgp key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: https://keybase.io/download
-Version: Keybase Go 5.5.0 (windows)
-
 xsFNBF8pWLwBEADCTYDkjYvUAUXat7SVvfKRqZCc4iCoHDg8B1FuLHBSXOk/O97K
 FQ1h2HeZb88u1xLwYGRf0BYMG9K+0KpemB9DJHun7/nTaqYiV9mrndF6R0ofI9IX
 Yc3/siU20BJrhTvT7ucWRHC+/uw6gNiGhZgRlqLhnfff08f7lDkD/mJVKE9usrOh
