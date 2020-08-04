@@ -27,7 +27,7 @@ Full-Stack developer from Japan :japan:</h2>
 
 <br/>
 
-#### my public pgp key
+#### :key: my public pgp key
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
