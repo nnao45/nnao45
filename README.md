@@ -24,7 +24,7 @@ Full-Stack developer from Japan :japan:</h2>
 <a href="mailto:n4sekai5y@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
-<a href="https://keybase.io/nnao45#_">
+<a href="keybase://chat/nnao45>
   <img align="left" alt="Keybase" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" />
 </a>
 </a>
