@@ -34,7 +34,6 @@ Full-Stack developer from Japan :japan:</h2>
 #### :envelope: Contact
 ADDRESS: `n4sekai5y@gmail.com`<br/>
 FINGER PRINT: `5E5C 3B2F 9E32 820F AA70 B954 672F 5ED8 832C C451`<br/>
-<br/>
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 xsFNBF8pX0oBEACgR3dL5SaHVt5DVOhCGVR+FVMd8EuO5K8VxsOAkNbY7egEF05t
