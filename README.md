@@ -6,6 +6,7 @@ Full-Stack developer from Japan :japan:</h2>
 #### :mortar_board: B1 Master of Computer Science (2020/10~)
 #### :computer: Scala, Go, Rust, Java, Vue.js, Zsh, MySQL, Kubernetes, BGP
 #### ❤️ FP, Security, Encrypt, Cloudcomputing, Network, Retail, AdMarketing
+#### :memo: [Cloud Native Developer Japan](https://cnd.connpass.com) Organizer: Cloud native workshop in Japan
 
 <br/>
 
