@@ -13,7 +13,7 @@ Full-Stack developer from Japan :japan:</h2>
 <a href="https://twitter.com/nnao45">
   <img align="left" alt="Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/%E5%B0%9A%E5%BC%A5-%E6%A8%AA%E5%B1%B1-867544113/">
+<a href="https://www.linkedin.com/in/naoya-yokoyama-867544113/">
   <img align="left" alt="Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
 <a href="https://speakerdeck.com/nnao45">
