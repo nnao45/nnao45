@@ -93,9 +93,8 @@ V4szkfPDmQqeWQVX4vL+5HngEHZZ9o64fg==
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=nnao45&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnao45&hide=makefile,shell" />
-</a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nnao45)](https://github.com/nnao45/github-profile-trophy)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=nnao45.nnao45)
