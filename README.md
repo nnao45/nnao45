@@ -1,4 +1,4 @@
-<h2>Hi, I'm nnao45!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> <br/>
+<h2>Hi, I'm nnao45!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" alt="hi" width="28" height="28"> <br/>
 Full-Stack developer from Japan :japan:</h2>
 
 #### My icon <img src="https://github.com/nnao45/nnao45/blob/master/nnao45.png?raw=true" height="20px" width="20px"/></a> is inspired by [Mother2](https://www.nintendo.co.jp/n08/a2uj/mother2/index.html), Love this
