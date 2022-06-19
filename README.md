@@ -19,7 +19,7 @@ Full-Stack developer from Japan :japan:</h2>
   <img align="left" alt="Speakerdeck" height="27px" width="27" src="https://www.strattic.com/wp-content/uploads/2019/06/speakerdeck-172x172.png" />
 </a>
 <a href="https://nnao45.hatenadiary.com/">
-  <img align="left" alt="Hatena" width="24px" src="https://hatenacorp.jp/images/company/resource/hatena-blog-logo-s.png" />
+  <img align="left" alt="Hatena" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hatena_blog_logo.svg/2048px-Hatena_blog_logo.svg.png" />
 </a>
 <a href="mailto:n4sekai5y@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
