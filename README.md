@@ -1,9 +1,8 @@
-<h2>Hi, I'm nnao45!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" alt="hi" width="28" height="28"> <br/>
-Full-Stack developer from Japan :japan:</h2>
+<h2>Hi, I'm nnao45!! <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" alt="hi" width="28" height="28"></h2>
 
 #### My icon <img src="https://github.com/nnao45/nnao45/blob/master/nnao45.png?raw=true" height="20px" width="20px"/></a> is inspired by [Mother2](https://www.nintendo.co.jp/n08/a2uj/mother2/index.html), Love this
-#### :mortar_board: M2 Master of Computer Science (2020/10~), High Performance Computing, Container Scheduling
-#### :computer: Scala, Go, Rust, Java, Vue.js, Zsh, MySQL, Kubernetes, BGP
+#### :mortar_board: Doctoral course of Computer Science (2023/10~), Information Entropy, Auto scaling system
+#### :computer: Scala, Rust, Python, Clojure, Postgres, Snowflake
 #### ❤️ FP, Security, Encrypt, Cloudcomputing, Network, Retail, AdMarketing
 #### :memo: [Cloud Native Developer Japan](https://cnd.connpass.com) Organizer: Cloud native workshop in Japan
 
